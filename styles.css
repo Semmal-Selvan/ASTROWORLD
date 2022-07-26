@@ -49,16 +49,17 @@ h1 {
 
     padding: 7px 15px;
     font-family: 'Oxygen', sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     color: white;
-    background-color: #ffffff24;
+    background-color: #00000063;
     border: 3px solid white;
     border-radius: 999px;
     
 }
 
 .tit-btn:hover {
-    background-color: #ffffff88;
+    background-color: #ffffff;
+    color: black;
     cursor: pointer;   
 
 }
